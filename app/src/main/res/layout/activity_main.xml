@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3C3F41"
+    android:translationX="0px"
+    android:translationY="0px"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/grey"
+        android:orientation="vertical"
+        >
+
+        <com.google.android.material.appbar.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.google.android.material.appbar.MaterialToolbar
+                android:id="@+id/topAppBar"
+                style="@style/ToolBarStyle"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                app:navigationIcon="@drawable/ic_welocalyze_logo_rounded"
+                app:title="@string/app_name"
+                app:titleTextColor="@color/colorPrimary" />
+        </com.google.android.material.appbar.AppBarLayout>
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:textAlignment="inherit" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal">
+
+            <com.google.android.material.card.MaterialCardView
+                app:cardElevation="3dp"
+                android:id="@+id/imgBtEmployee"
+                android:layout_width="140dp"
+                android:layout_height="140dp"
+                android:layout_gravity="center"
+                android:layout_margin="12dp"
+                android:checkable="true"
+                android:clickable="true"
+                android:focusable="true"
+                android:padding="20dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:orientation="vertical">
+                    <!-- Media -->
+
+                    <ImageView
+                        android:layout_width="90dp"
+                        android:layout_height="70dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="10dp"
+                        android:scaleType="fitCenter"
+                        app:srcCompat="@drawable/ic_briefcase_welocalyze" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="5dp"
+                        android:text="@string/visitor"
+                        android:textAppearance="?attr/textAppearanceHeadline6"
+                        android:textColor="@color/colorPrimary"
+                        android:textSize="16sp"
+                        app:autoSizeTextType="uniform" />
+                </LinearLayout>
+            </com.google.android.material.card.MaterialCardView>
+
+            <com.google.android.material.card.MaterialCardView
+                app:cardElevation="3dp"
+                android:id="@+id/imgBtStudent"
+                android:layout_width="140dp"
+                android:layout_height="140dp"
+                android:layout_gravity="center"
+                android:layout_margin="12dp"
+                android:checkable="true"
+                android:clickable="true"
+                android:focusable="true"
+                android:padding="20dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:orientation="vertical">
+                    <!-- Media -->
+
+                    <ImageView
+                        android:layout_width="90dp"
+                        android:layout_height="70dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="10dp"
+                        android:scaleType="fitCenter"
+                        app:srcCompat="@drawable/ic_students_cap_welocalyze" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="5dp"
+                        android:text="@string/student"
+                        android:textAppearance="?attr/textAppearanceHeadline6"
+                        android:textColor="@color/colorPrimary"
+                        android:textSize="16sp"
+                        app:autoSizeTextType="uniform" />
+                </LinearLayout>
+            </com.google.android.material.card.MaterialCardView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal">
+
+            <com.google.android.material.card.MaterialCardView
+                app:cardElevation="3dp"
+                android:id="@+id/imgBtSpeaker"
+                android:layout_width="140dp"
+                android:layout_height="140dp"
+                android:layout_gravity="center"
+                android:layout_margin="12dp"
+                android:checkable="true"
+                android:clickable="true"
+                android:focusable="true"
+                android:padding="20dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:orientation="vertical">
+                    <!-- Media -->
+
+                    <ImageView
+                        android:layout_width="90dp"
+                        android:layout_height="70dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="10dp"
+                        android:scaleType="fitCenter"
+                        app:srcCompat="@drawable/ic_white_board_blue" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="5dp"
+                        android:text="@string/speaker"
+                        android:textAppearance="?attr/textAppearanceHeadline6"
+                        android:textColor="@color/colorPrimary"
+                        android:textSize="16sp"
+                        app:autoSizeTextType="uniform" />
+                </LinearLayout>
+            </com.google.android.material.card.MaterialCardView>
+
+            <com.google.android.material.card.MaterialCardView
+                app:cardElevation="3dp"
+                android:id="@+id/imgBtVisitor"
+                android:layout_width="140dp"
+                android:layout_height="140dp"
+                android:layout_gravity="center"
+                android:layout_margin="12dp"
+                android:checkable="true"
+                android:clickable="true"
+                android:focusable="true"
+                android:padding="20dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:orientation="vertical">
+                    <!-- Media -->
+
+                    <ImageView
+                        android:layout_width="90dp"
+                        android:layout_height="70dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="10dp"
+                        android:scaleType="fitCenter"
+                        app:srcCompat="@drawable/ic_card_welocalize" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="5dp"
+                        android:text="@string/employee"
+                        android:textAppearance="?attr/textAppearanceHeadline6"
+                        android:textColor="@color/colorPrimary"
+                        android:textSize="16sp"
+                        app:autoSizeTextType="uniform" />
+                </LinearLayout>
+            </com.google.android.material.card.MaterialCardView>
+        </LinearLayout>
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:textAlignment="inherit" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/btInfos"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="20dp"
+                android:layout_weight="0"
+                app:srcCompat="@drawable/ic_information" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:textAlignment="inherit" />
+
+            <TextView
+                android:id="@+id/btLinkAforp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|center_vertical"
+                android:layout_marginEnd="20dp"
+                android:layout_weight="0"
+                android:autoLink="web"
+                android:gravity="center_vertical"
+                android:linksClickable="true"
+                android:text="aforp.fr"
+                android:textColor="#FFFFFF"
+                android:textColorLink="@color/colorPrimary"
+                android:textSize="24sp" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

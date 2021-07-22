@@ -1,0 +1,310 @@
+A;RDC;41AE001;Espace démonstrateur;61;55
+A;RDC;41AE002;Espace démonstrateur;206;56
+A;RDC;41AE003;bureau;227;135
+A;RDC;41AE004;bureau;219;145
+A;RDC;41AE005;Espace détente;197;125
+A;RDC;41AE006;bureau;129;83
+A;RDC;41AE007;bureau;123;83
+A;RDC;41AE008;bureau;111;83
+A;RDC;41AE009;Espace d'attente;95;100
+A;RDC;41AE010;bureau;83;160
+A;RDC;41AE011;Local Photocopieur;76;160
+A;RDC;41AE012;bureau;67;160
+A;RDC;41AE013;Espace d'attente;71;124
+A;RDC;41AE014;bureau;35;55
+A;RDC;41AE015;Infirmerie;30;54
+A;RDC;41AE040;Couloir;0;0
+A;RDC;41AE041;Local technique;0;0
+A;RDC;41AE042;Local technique;0;0
+A;RDC;41AE043;Local technique;0;0
+A;RDC;41AE044;Couloir;0;0
+A;RDC;41AE045;Couloir;0;0
+A;RDC;41AE046;Sanitaires;0;0
+A;RDC;41AE047;hall;0;0
+A;RDC;41AE048;Sanitaires;0;0
+A;RDC;41AE049;Couloir;0;0
+A;RDC;41AE050;Escalier ;0;0
+A;RDC;41AE051;Sanitaires;0;0
+A;RDC;41AE052;Sanitaires;0;0
+A;RDC;41AE053;Sanitaires;0;0
+A;RDC;41AE054;Local technique;0;0
+A;RDC;41AE055;Local technique;0;0
+A;RDC;41AE056;Local technique;0;0
+A;RDC;41AE057;Escalier ;0;0
+A;RDC;41AE058;Couloir;0;0
+A;RDC;41AE070;Couloir;0;0
+A;1;41AE101;Atelier ;0;0
+A;1;41AE102;Local Photocopieur;0;0
+A;1;41AE103;Atelier ;0;0
+A;1;41AE104;Espace d'enseignement;0;0
+A;1;41AE105;Atelier ;0;0
+A;1;41AE106;bureau;0;0
+A;1;41AE107;bureau;0;0
+A;1;41AE108;Atelier ;0;0
+A;1;41AE109;Espace d'enseignement;0;0
+A;1;41AE110;Espace d'attente;0;0
+A;1;41AE140;Couloir;0;0
+A;1;41AE141;Couloir;0;0
+A;1;41AE142;Escalier ;0;0
+A;1;41AE143;Local technique;0;0
+A;1;41AE144;Local technique;0;0
+A;1;41AE145;Escalier ;0;0
+A;1;41AE146;Couloir;0;0
+A;1;41AE147;Couloir;0;0
+A;1;41AE148;Couloir;0;0
+A;1;41AE149;Local technique;0;0
+A;1;41AE150;Local technique;0;0
+A;1;41AE151;Local technique;0;0
+A;1;41AE152;Sanitaires;0;0
+A;1;41AE153;Sanitaires;0;0
+A;1;41AE154;Sanitaires;0;0
+A;1;41AE155;Couloir;0;0
+A;2;41AE201;Espace d'enseignement;0;0
+A;2;41AE202;Espace d'enseignement;0;0
+A;2;41AE203;Espace d'enseignement;0;0
+A;2;41AE204;bureau;0;0
+A;2;41AE205;bureau;0;0
+A;2;41AE206;Espace d'enseignement;0;0
+A;2;41AE207;Local Photocopieur;0;0
+A;2;41AE208;bureau;0;0
+A;2;41AE209;Espace d'enseignement;0;0
+A;2;41AE210;Espace d'enseignement;0;0
+A;2;41AE211;Espace d'enseignement;0;0
+A;2;41AE212;Stockage ;0;0
+A;2;41AE213;Espace d'enseignement;0;0
+A;2;41AE214;bureau;0;0
+A;2;41AE215;Local technique;0;0
+A;2;41AE240;Couloir;0;0
+A;2;41AE241;Local technique;0;0
+A;2;41AE242;Local technique;0;0
+A;2;41AE243;Escalier ;0;0
+A;2;41AE244;Couloir;0;0
+A;2;41AE245;Couloir;0;0
+A;2;41AE246;Couloir;0;0
+A;2;41AE247;Local technique;0;0
+A;2;41AE248;Local technique;0;0
+A;2;41AE249;Local technique;0;0
+A;2;41AE250;Sanitaires;0;0
+A;2;41AE251;Sanitaires;0;0
+A;2;41AE252;Sanitaires;0;0
+A;2;41AE253;Escalier ;0;0
+A;3;41AE301;Espace d'enseignement;0;0
+A;3;41AE302;Atelier ;0;0
+A;3;41AE303;Local Photocopieur;0;0
+A;3;41AE304;Atelier ;0;0
+A;3;41AE306;bureau;0;0
+A;3;41AE307;bureau;0;0
+A;3;41AE308;Espace d'enseignement;0;0
+A;3;41AE309;Stockage ;0;0
+A;3;41AE310;Espace d'enseignement;0;0
+A;3;41AE311;Box;0;0
+A;3;41AE312;Box;0;0
+A;3;41AE340;Couloir;0;0
+A;3;41AE341;Local technique;0;0
+A;3;41AE342;Local technique;0;0
+A;3;41AE343;Escalier ;0;0
+A;3;41AE344;Couloir;0;0
+A;3;41AE345;Couloir;0;0
+A;3;41AE346;Local technique;0;0
+A;3;41AE347;Local technique;0;0
+A;3;41AE348;Local technique;0;0
+A;3;41AE349;Sanitaires;0;0
+A;3;41AE350;Sanitaires;0;0
+A;3;41AE351;Sanitaires;0;0
+A;3;41AE352;Couloir;0;0
+A;3;41AE153;Escalier ;0;0
+A;3;41AE154;salle de réunion;0;0
+A;SS;41AS101;Espace d'enseignement;0;0
+A;SS;41AS102;Plateau sportif;0;0
+A;SS;41AS103;Plateau sportif;0;0
+A;SS;41AS104;Plateau sportif;0;0
+A;SS;41AS105;Espace d'enseignement;0;0
+A;SS;41AS106;Stockage ;0;0
+A;SS;41AS107;Archives;0;0
+A;SS;41AS108;Archives;0;0
+A;SS;41AS109;Archives;0;0
+A;SS;41AS110;Archives;0;0
+A;SS;41AS111;Espace d'enseignement;0;0
+A;SS;41AS140;Couloir;0;0
+A;SS;41AS141;Escalier ;0;0
+A;SS;41AS142;Stockage ;0;0
+A;SS;41AS143;Escalier ;0;0
+A;SS;41AS144;Couloir;0;0
+A;SS;41AS145;Couloir;0;0
+A;SS;41AS146;Couloir;0;0
+A;SS;41AS147;Couloir;0;0
+A;SS;41AS148;Local technique;0;0
+A;SS;41AS149;Couloir;0;0
+A;SS;41AS150;Local technique;0;0
+A;SS;41AS151;Couloir;0;0
+A;SS;41AS152;Escalier ;0;0
+A;SS;41AS153;Local technique;0;0
+A;SS;41AS154;Stockage ;0;0
+A;SS;41AS155;Gaine technique;0;0
+A;SS;41AS155;Gaine technique;0;0
+A;SS;41AS156;Gaine technique;0;0
+A;SS;41AS158;Gaine technique;0;0
+B;1;41BE101;Atelier ;0;0
+B;1;41BE102;Espace d'enseignement;0;0
+B;1;41BE103;Atelier ;0;0
+B;1;41BE104;Atelier ;0;0
+B;1;41BE105;Espace d'enseignement;0;0
+B;1;41BE106;Atelier ;0;0
+B;1;41BE107;Atelier ;0;0
+B;1;41BE108;Atelier ;0;0
+B;1;41BE140;Couloir;0;0
+B;1;41BE141;Couloir;0;0
+B;1;41BE142;Sanitaires;0;0
+B;1;41BE143;Sanitaires;0;0
+B;1;41BE144;Sanitaires;0;0
+B;1;41BE145;Local technique;0;0
+B;1;41BE146;Sanitaires;0;0
+B;1;41BE147;Sanitaires;0;0
+B;1;41BE148;Sanitaires;0;0
+B;1;41BE149;Couloir;0;0
+B;1;41BE151;Couloir;0;0
+B;1;41BE150;Couloir;0;0
+C;RDC;41CE001;Espace détente;0;0
+C;RDC;41CE002;Infirmerie;0;0
+C;RDC;41CE003;bureau;0;0
+C;RDC;41CE004;Local Photocopieur;0;0
+C;RDC;41CE005;bureau;0;0
+C;RDC;41CE006;Espace d'enseignement;0;0
+C;RDC;41CE008;Espace d'enseignement;0;0
+C;RDC;41CE009;Espace d'enseignement;0;0
+C;RDC;41CE010;Atelier ;0;0
+C;RDC;41CE011;Atelier ;0;0
+C;RDC;41CE012;Atelier ;0;0
+C;RDC;41CE013;Atelier ;0;0
+C;RDC;41CE014;Espace d'enseignement;0;0
+C;RDC;41CE040;Couloir;0;0
+C;RDC;41CE041;Couloir;0;0
+C;RDC;41CE042;Couloir;0;0
+C;RDC;41CE043;Escalier ;0;0
+C;RDC;41CE044;Préau;0;0
+C;RDC;41CE045;Sanitaires;0;0
+C;RDC;41CE046;Sanitaires;0;0
+C;RDC;41CE147;Escalier ;0;0
+C;RDC;41CE107;Espace d'enseignement;0;0
+C;1;41CE101;Espace d'enseignement;0;0
+C;1;41CE102;Espace d'enseignement;0;0
+C;1;41CE103;Espace d'enseignement;0;0
+C;1;41CE104;Espace d'enseignement;0;0
+C;1;41CE105;Atelier ;0;0
+C;1;41CE106;Espace d'enseignement;0;0
+C;1;41CE107;Espace détente;0;0
+C;1;41CE108;Espace d'enseignement;0;0
+C;1;41CE109;bureau;0;0
+C;1;41CE140;Couloir;0;0
+C;1;41CE141;Sanitaires;0;0
+C;1;41CE142;Couloir;0;0
+C;1;41CE143;Couloir;0;0
+C;1;41CE144;Couloir;0;0
+C;1;41CE145;Couloir;0;0
+C;1;41CE146;Couloir;0;0
+C;1;41CE147;Couloir;0;0
+C;1;41CE148;Couloir;0;0
+C;1;41CE149;Local technique;0;0
+D;RDC;41DE0;Vestiaires;0;0
+D;RDC;41DE0;Vestiaires;0;0
+D;RDC;41DE001;Espace d'enseignement;0;0
+D;RDC;41DE002;Atelier ;0;0
+D;RDC;41DE003;Atelier ;0;0
+D;RDC;41DE004;Atelier ;0;0
+D;RDC;41DE005;bureau;0;0
+D;RDC;41DE006;salle de réunion;0;0
+D;RDC;41DE007;Espace d'enseignement;0;0
+D;RDC;41DE008;Espace d'enseignement;0;0
+D;RDC;41DE009;bureau;0;0
+D;RDC;41DE040;Couloir;0;0
+D;RDC;41DE041;Local technique;0;0
+D;RDC;41DE042;Local technique;0;0
+D;RDC;41DE043;Local technique;0;0
+D;RDC;41DE044;Couloir;0;0
+D;RDC;41DE045;Local technique;0;0
+D;RDC;41DE046;Couloir;0;0
+D;RDC;41DE047;Sanitaires;0;0
+D;RDC;41DE048;Stockage ;0;0
+D;RDC;41DE049;Sanitaires;0;0
+D;RDC;41DE050;Sanitaires;0;0
+D;RDC;41DE051;Couloir;0;0
+D;RDC;41DE052;Sanitaires;0;0
+E;RDC;41EE001;Espace d'enseignement;0;0
+E;RDC;41EE002;Espace d'enseignement;0;0
+E;RDC;41EE003;salle de réunion;0;0
+E;RDC;41EE004;salle de réunion;0;0
+E;RDC;41EE005;Cafétéria;0;0
+E;RDC;41EE040;Couloir;0;0
+E;RDC;41EE041;Escalier ;0;0
+E;RDC;41EE042;Sanitaires;0;0
+E;RDC;41EE043;Local technique;0;0
+E;RDC;41EE044;Sanitaires;0;0
+E;RDC;41EE045;Sanitaires;0;0
+E;RDC;41EE046;Couloir;0;0
+E;RDC;41EE047;Escalier ;0;0
+E;RDC;41EE048;Couloir;0;0
+E;RDC;41EE049;Stockage ;0;0
+E;RDC;41EE050;Sanitaires;0;0
+E;RDC;41EE051;Sanitaires;0;0
+E;RDC;41EE052;Stockage ;0;0
+E;RDC;41EE053;Sanitaires;0;0
+E;RDC;41EE054;Sanitaires;0;0
+E;1;41EE101;bureau;0;0
+E;1;41EE102;bureau;0;0
+E;1;41EE103;Espace d'enseignement;0;0
+E;1;41EE104;salle de réunion;0;0
+E;1;41EE105;bureau;0;0
+E;1;41EE106;bureau;0;0
+E;1;41EE107;Espace d'enseignement;0;0
+E;1;41EE108;bureau;0;0
+E;1;41EE109;Espace d'enseignement;0;0
+E;1;41EE110;Espace d'enseignement;0;0
+E;1;41EE111;Espace d'enseignement;0;0
+E;1;41EE112;bureau;0;0
+E;1;41EE113;Espace d'enseignement;0;0
+E;1;41EE114;Espace d'enseignement;0;0
+E;1;41EE115;Espace d'enseignement;0;0
+E;1;41EE116;Espace d'enseignement;0;0
+E;1;41EE117;Espace d'enseignement;0;0
+E;1;41EE118;Espace d'enseignement;0;0
+E;1;41EE140;Escalier ;0;0
+E;1;41EE141;Sanitaires;0;0
+E;1;41EE142;Sanitaires;0;0
+E;1;41EE143;Escalier ;0;0
+E;1;41EE144;Sanitaires;0;0
+E;1;41EE145;Sanitaires;0;0
+E;2;41EE201;bureau;0;0
+E;2;41EE202;bureau;0;0
+E;2;41EE203;bureau;0;0
+E;2;41EE204;bureau;0;0
+E;2;41EE205;bureau;0;0
+E;2;41EE206;bureau;0;0
+E;2;41EE207;bureau;0;0
+E;2;41EE208;bureau;0;0
+E;2;41EE209;bureau;0;0
+E;2;41EE210;bureau;0;0
+E;2;41EE211;bureau;0;0
+E;2;41EE212;salle de réunion;0;0
+E;2;41EE213;bureau;0;0
+E;2;41EE214;bureau;0;0
+E;2;41EE215;bureau;0;0
+E;2;41EE216;bureau;0;0
+E;2;41EE217;bureau;0;0
+E;2;41EE218;bureau;0;0
+E;2;41EE219;bureau;0;0
+E;2;41EE220;bureau;0;0
+E;2;41EE221;bureau;0;0
+E;2;41EE222;Local Photocopieur;0;0
+E;2;41EE223;salle de réunion;0;0
+E;2;41EE224;salle de réunion;0;0
+E;2;41EE225;bureau;0;0
+E;2;41EE240;Couloir;0;0
+E;2;41EE241;Escalier ;0;0
+E;2;41EE242;Couloir;0;0
+E;2;41EE243;Sanitaires;0;0
+E;2;41EE244;Sanitaires;0;0
+E;2;41EE245;Escalier ;0;0
+E;2;41EE245;Sanitaires;0;0
+E;2;41EE247;Sanitaires;0;0
+F;RDC;41FE000;Hall VIP;0;0
+EXTERIEUR X;;41XE001;Plateau sportif;0;0

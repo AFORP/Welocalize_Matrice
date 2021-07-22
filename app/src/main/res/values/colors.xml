@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="aforp_blue_sky"> #FF0079B8</color>
+    <color name="aforp_blue_dark">#FF1A0F82</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#E2E2E2</color>
+    <color name="darkGrey">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#3a7cec</color>
+    <color name="colorPrimaryDark">#DADCE0</color>
+    <color name="colorAccent">#fff</color>
+
+    <color name="toolbarIconColor">#FFFFFF</color>
+    <color name="loginPageBackgroundColor">#FFFFFF</color>
+    <color name="productGridBackgroundColor">#FFFFFF</color>
+</resources>

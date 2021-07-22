@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:theme="@style/Theme.AppCompat"
+    android:layout_width="match_parent"
+    android:background="#E7E7E7"
+    android:layout_height="match_parent"
+    tools:context=".navigation.MapActivity">
+
+    <RelativeLayout
+        android:id="@+id/mainLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <fr.aforp.wilocalyse.navigation.FrameLayoutZoomable
+            android:id="@+id/frame_layout_zoomable"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#D3EAD6">
+
+            <FrameLayout
+                android:id="@+id/map_layout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:foregroundGravity="bottom|center_vertical">
+
+                <ImageView
+                    android:id="@+id/imgview_map"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:adjustViewBounds="true"
+                    android:contentDescription="@string/current_map_view"
+                    android:overScrollMode="never"
+                    android:scaleType="centerInside"
+                    android:scrollIndicators="bottom|end|right"
+                    android:scrollbarAlwaysDrawHorizontalTrack="true"
+                    android:scrollbarAlwaysDrawVerticalTrack="true"
+                    android:scrollbars="horizontal|vertical"
+                    app:srcCompat="@drawable/map_a_e_rdc" />
+
+            </FrameLayout>
+        </fr.aforp.wilocalyse.navigation.FrameLayoutZoomable>
+    </RelativeLayout>
+
+    <include layout="@layout/bottom_sheet_map" />
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

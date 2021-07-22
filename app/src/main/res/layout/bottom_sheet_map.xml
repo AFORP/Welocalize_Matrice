@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottomSheet"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/transparent"
+    android:elevation="4dp"
+    app:behavior_hideable="false"
+    app:behavior_peekHeight="75dp"
+    app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:isScrollContainer="true"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/btn_search"
+            style="@style/FloatingAccentButtonOverlay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|right"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="15dp"
+            android:contentDescription="Changer de lieu"
+            app:fabCustomSize="60dp"
+            app:fabSize="normal"
+            app:iconSize="100dp"
+            app:maxImageSize="40dp"
+            app:srcCompat="@drawable/ic_baseline_search_24" />
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:cardCornerRadius="30dp"
+            app:cardElevation="10dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imageView10"
+                    android:layout_width="200dp"
+                    android:layout_height="9dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="8dp"
+                    app:srcCompat="@drawable/ic_drag" />
+
+            <LinearLayout
+                android:layout_gravity="center_horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="4dp"
+                android:orientation="horizontal">
+
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_marginRight="3dp"
+                    app:srcCompat="@drawable/ic_location_pointer" />
+
+                <TextView
+                    android:id="@+id/tv_map_destination"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif"
+                    android:text="Destination"
+                    android:layout_marginRight="12dp"
+                    android:textColor="@color/black"
+                    android:textSize="18sp" />
+
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_marginRight="3dp"
+                    app:srcCompat="@drawable/ic_stairs" />
+
+                <TextView
+                    android:id="@+id/tv_bottom_sheet_floor"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif"
+                    android:text="RDC"
+                    android:textColor="@color/black"
+                    android:textSize="18sp" />
+
+            </LinearLayout>
+
+                <ListView
+                    android:nestedScrollingEnabled="true"
+                    android:id="@+id/step_listView"
+                    style="@style/Widget.AppCompat.ListView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#FFFFFF"
+                    android:cacheColorHint="@color/black"
+                    android:divider="@android:drawable/divider_horizontal_textfield"
+                    android:isScrollContainer="true" />
+
+            </LinearLayout>
+
+        </com.google.android.material.card.MaterialCardView>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

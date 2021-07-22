@@ -1,0 +1,16 @@
+<resources>
+    <string name="student" translatable="false">APPRENANT</string>
+    <string name="visitor" translatable="false">VISITEUR</string>
+    <string name="employee" translatable="false">SALARIE</string>
+    <string name="speaker" translatable="false">INTERVENANT</string>
+
+    <string name="app_name" translatable="false">WE\'LOCALISE AFORP</string>
+    <string name="title_activity_route">RouteActivity</string>
+    <string name="current_map_view" translatable="false">Current Map View</string>
+    <string name="title_bottom_sheet_map" translatable="false">Etapes</string>
+    <string-array name="building_array">
+        <item>A</item>
+        <item>E</item>
+        <item>Un super bâtiment qui prend un max de place à l\'écran</item>
+    </string-array>
+</resources>

@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.WeLocalyse" parent="Theme.MaterialComponents.Light.NoActionBar"  >
+
+    <!-- Customize your theme here. -->
+
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+    </style>
+
+    <style name="FloatingAccentButtonOverlay" parent="Widget.AppCompat.Button">
+        <item name="backgroundTint">@color/colorPrimary</item>
+    </style>
+
+    <style parent="Widget.AppCompat.Toolbar" name="ToolBarStyle">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:background">@color/white</item>
+        <item name="android:theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+        <item name="popupTheme">@style/ThemeOverlay.AppCompat.Light</item>
+    </style>
+
+</resources>
+
+
